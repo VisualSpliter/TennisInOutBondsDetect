@@ -13,3 +13,15 @@ Use Yolo V5 to detect weather the tennis ball is in/out the bonds
 4.可能需要会电路设计、MCU设计的人（物联网系、机电系、自动控制系）
 
 5.暂时没了
+
+## 二、程序模块
+
+### 1.单反控制模块
+
+​		此模块需要通过快门线连接至单反相机，利用开发板上的GPIO接口或者Digitai接口来控制单反相机连拍。此模块需要具备快速网球运动检测能力，可能使用YOLO X进行开发（检测速度快）。单片机要能运行Linux系统，可以是RasperryPi/OrangePi这一类的，最好能是Jetson Nano这一类能支持CUDA加速的视觉运算开发板。
+
+![](https://pic.imgdb.cn/item/6256485f239250f7c5bfcc81.png)
+
+![](https://pic.imgdb.cn/item/6256485f239250f7c5bfcd13.png)
+
+### 2.待会再写
