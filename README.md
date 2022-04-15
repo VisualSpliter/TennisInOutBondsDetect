@@ -25,3 +25,11 @@ Use Yolo V5 to detect weather the tennis ball is in/out the bonds
 ![微信图片_20220413114926.png](https://s2.loli.net/2022/04/13/YaylWujGQb5zcA9.png)
 
 ### 2.待会再写
+
+## 三、开发流程
+
+```mermaid
+flowchart TD;
+     数据集制作-->训练AI-->实时检测延迟测试-->单反控制程序编写-->开发板移植-->FTP照片传输程序-->开发板同步-->GUI封装-->总测试-->Complete!
+     搞懂快门线原理-->单反控制程序编写
+```
