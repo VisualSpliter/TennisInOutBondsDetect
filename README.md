@@ -24,7 +24,7 @@ Use Yolo V5 to detect weather the tennis ball is in/out the bonds
 
 ![微信图片_20220413114926.png](https://s2.loli.net/2022/04/13/YaylWujGQb5zcA9.png)
 
-### 2.待会再写
+### 2.FTP上传服务器
 
 ## 三、开发流程
 
